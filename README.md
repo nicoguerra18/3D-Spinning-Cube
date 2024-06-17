@@ -1,8 +1,4 @@
 # 3D ASCII Cube Animation
-<img width="641" alt="Screenshot 2024-06-17 at 11 41 31 AM" src="https://github.com/nicoguerra18/Spinning-Cube/assets/139820627/f6764b20-7e45-4e07-98e0-bc8b1bb4d8a0">
-
-
-
 This was a one day project I decided to do to utlize some basic linear algebra concepts I learned in university. This 3D cube animation project leverages 
 basic 3-D rotations to create realistic and dynamic rotational effects. At its 
 core, the project utilizes rotational matrices to compute the new positions of tiles on the cube's surfaces. These matrices involve trigonometric functions that 
@@ -13,6 +9,15 @@ maintaining the cube's structural integrity while it rotates. During my time at 
 However, as I’ve gained more experience in programming, I’ve come to appreciate the usefulness and power of linear algebra in software engineering. 
 This project is a testament to that realization, demonstrating how basic linear algebra concepts can serve as the building blocks for creating much more powerful animations.
 
+## Demo Link
+https://drive.google.com/file/d/1gggtxAilKvndadloERn-xicMVHzD6V4c/view?usp=drive_link
 
 ## Resources 
 https://en.wikipedia.org/wiki/Rotation_matrix
+
+## Technology Used
+- React, JavaScript, CSS
+
+## Screenshot
+<img width="641" alt="Screenshot 2024-06-17 at 11 41 31 AM" src="https://github.com/nicoguerra18/Spinning-Cube/assets/139820627/e10928b4-ba08-4453-9c52-6b62855c12cc">
+
