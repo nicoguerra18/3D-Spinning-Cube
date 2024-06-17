@@ -1,5 +1,7 @@
 # 3D ASCII Cube Animation
-<img width="1114" alt="Screenshot 2024-06-17 at 11 41 31 AM" src="https://github.com/nicoguerra18/Spinning-Cube/assets/139820627/3e9dcecc-8604-4a29-b354-811ae018abb3">
+<img width="641" alt="Screenshot 2024-06-17 at 11 41 31 AM" src="https://github.com/nicoguerra18/Spinning-Cube/assets/139820627/f6764b20-7e45-4e07-98e0-bc8b1bb4d8a0">
+
+
 
 This was a one day project I decided to do to utlize some basic linear algebra concepts I learned in university. This 3D cube animation project leverages 
 basic 3-D rotations to create realistic and dynamic rotational effects. At its 
