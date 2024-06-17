@@ -3,7 +3,7 @@ import Cube from "./Cube";
 function App() {
   return (
     <div>
-      <Cube/>
+      <Cube />
     </div>
   );
 }
